@@ -1,4 +1,4 @@
-# GetVt!
+# GetVT!
 
 Inspired by Get MIT! by Mitch Gu.
 
